@@ -1,0 +1,6 @@
+{
+  "name": "تطبيق المؤذن الإلكتروني",
+  "description": "تطبيق المؤذن الإلكتروني الأصلي لمواقيت الصلاة الدقيقة والأذان بالصوت والصورة وبوصلة القبلة وحصن المسلم والمسبحة",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
